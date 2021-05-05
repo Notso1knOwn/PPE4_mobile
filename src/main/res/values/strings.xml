@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">KdoNoel</string>
+    <string name="button_addkdo">button_addKdo</string>
+    <string name="button_de_modification_de_kdo">button de modification de Kdo</string>
+    <string name="name">Name</string>
+    <string name="valider">Valider</string>
+    <string name="libelle">Libelle</string>
+    <string name="marque">Marque</string>
+    <string name="modele">Modele</string>
+    <string name="champ_obligatoire">*champ obligatoire</string>
+    <string name="symbole">*</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="categorie">Categorie :</string>
+    <string name="label_libelle">Libelle :</string>
+    <string name="label_marque">Marque :</string>
+    <string name="label_tarif">Tarif :</string>
+    <string name="label_stock">Stock :</string>
+    <string name="boutton_de_suppression_des_produits">boutton de suppression des produits</string>
+</resources>
